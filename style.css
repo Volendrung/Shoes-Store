@@ -1,0 +1,29 @@
+body {
+  color: black;
+  background-color: #bed7dc;
+}
+
+#navbar {
+  background-color: #222831;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+}
+
+#button-lm {
+  background-color: #06b6d4;
+  color: white;
+}
+
+#button-lm:hover {
+  background-color: #0891b2;
+}
+
+section {
+  padding-top: 3rem;
+}
+
+.button-submit {
+  padding-top: 5rem;
+}
